@@ -1,0 +1,12 @@
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task5\task5\obj\Debug\task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task5\task5\obj\Debug\task5.Form1.resources
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task5\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\romse\Desktop\3 курс\C#\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\romse\Desktop\3 курс\C#\task5\task5\obj\Debug\task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\romse\Desktop\3 курс\C#\task5\task5\obj\Debug\task5.Form1.resources
+C:\Users\romse\Desktop\3 курс\C#\task5\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\romse\Desktop\3 курс\C#\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+C:\Users\romse\Desktop\3 курс\C#\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
